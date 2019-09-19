@@ -18,6 +18,7 @@ pip install requests
 ```
 ./awsapi_createinstance.py -k <AWS_ACCESS_KEY> -s <AWS_SECRET_KEY> --aws_region <AWS_REGION> -t <AWS_INSTANCE_TYPE>
 ```
+Example:
 ```
 ./awsapi_createinstance.py -k ABCDEFGH -s QWERTYUIASDFGHJWERTYUSDFGH --aws_region us-east-1 -t t2.micro
 
