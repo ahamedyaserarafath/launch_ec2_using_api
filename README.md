@@ -1,7 +1,7 @@
 # Launching the EC2 Instance using native AWS API. 
 - [Introduction](#Introduction)
 - [Pre-requisites](#pre-requisites)
-- [Steps to run script](#Steps to run script)
+- [Steps to run script](#Steps-to-run-script)
 
 # Introduction
 In this repo, we are lanuch ec2 instance using native AWS API
